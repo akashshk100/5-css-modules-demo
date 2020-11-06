@@ -1,0 +1,14 @@
+.content{
+    color: red;
+    font-size: larger;
+    text-align: center;
+    align-items: center;
+}
+
+.someOther{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
